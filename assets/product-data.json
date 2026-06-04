@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "classic-datil",
+      "handle": "classic-datil-hot-sauce",
+      "slug": "classic-datil-hot-sauce",
+      "sku": "CDS-001",
+      "name": "Classic Datil Hot Sauce",
+      "displayName": "Classic Datil Hot Sauce",
+      "type": "Hot Sauce \u00b7 Unsmoked",
+      "price": 10.0,
+      "size": "5 fl oz",
+      "heat": "Hot",
+      "heatClass": "hp-hot",
+      "image": "assets/classic-datil-label-transparent.png",
+      "shortDescription": "The datil pepper, straight up \u2014 fruity, bright, and genuinely hot. No smoke, nothing extra. Just the sauce doing its thing on your eggs, your tacos, your everything.",
+      "story": "This is the datil in its most direct form. No smoke \u2014 just the pepper, vinegar, garlic, and a touch of salt, and a couple of other magic ingredients, balanced until it's exactly right.",
+      "pairings": "Eggs, tacos, grilled chicken, rice bowls, burgers, roasted vegetables.",
+      "ingredients": "Datil pepper mash, white vinegar, bell pepper, water, lime juice, lemon juice, cider vinegar, carrots, onion, tequila, tomato paste, honey, garlic, black garlic, salt, paprika, xanthan gum.",
+      "allergens": "Contains: No major food allergens.",
+      "stripeUrl": "",
+      "shopifyUrl": "",
+      "webflowUrl": ""
+    },
+    {
+      "id": "smoked-datil",
+      "handle": "smoked-datil-hot-sauce",
+      "slug": "smoked-datil-hot-sauce",
+      "sku": "SDS-001",
+      "name": "Smoked Datil Hot Sauce",
+      "displayName": "Smoked Datil Hot Sauce",
+      "type": "Hot Sauce \u00b7 Applewood Smoked",
+      "price": 11.0,
+      "size": "5 fl oz",
+      "heat": "Extra Hot",
+      "heatClass": "hp-xhot",
+      "image": "assets/smoked-datil-label-transparent.png",
+      "shortDescription": "Datil peppers over applewood before the sauce is ever made \u2014 smoke woven in from the start, not layered on top. Fruity heat with real depth. This is the one for anything off the grill.",
+      "story": "Before these peppers ever see a pot, they spend hours over applewood. The smoke gets into the fruit of the pepper, not just the skin \u2014 so when the sauce comes together, you're not tasting smoke added after the fact. You're tasting it woven in.",
+      "pairings": "Brisket, pulled pork, chili, burgers, smoked wings, grilled vegetables.",
+      "ingredients": "Smoked datil pepper mash, white vinegar, bell pepper, water, lime juice, lemon juice, cider vinegar, carrots, onion, tequila, tomato paste, honey, garlic, black garlic, salt, paprika, xanthan gum.",
+      "allergens": "Contains: No major food allergens.",
+      "stripeUrl": "",
+      "shopifyUrl": "",
+      "webflowUrl": ""
+    }
+  ]
+}
